@@ -1,11 +1,10 @@
 {
-  "prefix": "YOUR_BOT_PREFIX_HERE",
-  "token": "YOUR_BOT_TOKEN_HERE",
-  "permissions": "YOUR_BOT_PERMISSIONS_HERE",
-  "application_id": "YOUR_APPLICATION_ID_HERE",
+  "prefix": "?",
+  "token": "MTA0MDY5ODk1MDE3MDE4MTc0NA.GdJvBd.ZxqNlRTgGCEjiB4WY_U6f0Mb5ak7KIEG65UVps",
+  "permissions": "8",
+  "application_id": "1040698950170181744",
   "sync_commands_globally": false,
   "owners": [
-    123456789,
-    987654321
+    927973453762555934
   ]
 }
